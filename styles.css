@@ -1,3 +1,18 @@
-body {
-
+div {
+	/*outline: 1px solid gray;*/
 }
+
+@media only screen
+and (max-width: 600px) {
+	body {
+		background-color: purple;
+		
+	}
+}
+
+
+/*
+img {
+	width: 100%
+}
+*/
